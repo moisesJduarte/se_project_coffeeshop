@@ -12,6 +12,7 @@
 
 .nav__links {
   display: flex;
+  align-items: center;
   gap: 20px;
   list-style-type: none;
   padding: 0;
@@ -22,4 +23,9 @@
   text-decoration: none;
   color: #000;
   font-weight: 500;
+  transition: opacity 0.5s;
+}
+
+.nav__link:hover {
+  opacity: 0.5;
 }

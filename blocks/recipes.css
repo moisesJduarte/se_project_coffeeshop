@@ -15,7 +15,7 @@
 
 .recipes__subtitle {
   margin: 0 0 80px;
-  font-family: "Noto Serif";
+  font-family: "Noto Serif", "Times New Roman", serif;
   font-size: 20px;
   line-height: 30px;
   max-width: 438px;
